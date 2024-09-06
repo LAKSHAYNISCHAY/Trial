@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Who is the current President of India?",
+      "options": ["Ram Nath Kovind", "Pratibha Patil", "Droupadi Murmu", "A.P.J Abdul Kalam"],
+      "correctAnswer": "Droupadi Murmu",
+      "solution": "As of now, the current President of India is Droupadi Murmu."
+    },
+    {
+      "question": "Which article of the Indian Constitution deals with the Right to Equality?",
+      "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+      "correctAnswer": "Article 14",
+      "solution": "Article 14 of the Indian Constitution deals with the Right to Equality."
+    },
+    {
+      "question": "Who appoints the Prime Minister of India?",
+      "options": ["President", "Vice President", "Chief Justice of India", "Lok Sabha"],
+      "correctAnswer": "President",
+      "solution": "The President of India appoints the Prime Minister."
+    },
+    {
+      "question": "What is the maximum number of members in the Rajya Sabha?",
+      "options": ["250", "245", "200", "300"],
+      "correctAnswer": "250",
+      "solution": "The Rajya Sabha can have a maximum of 250 members."
+    },
+    {
+      "question": "Which amendment of the Indian Constitution is known as the 'Mini Constitution'?",
+      "options": ["44th Amendment", "42nd Amendment", "40th Amendment", "50th Amendment"],
+      "correctAnswer": "42nd Amendment",
+      "solution": "The 42nd Amendment is known as the 'Mini Constitution'."
+    },
+    {
+      "question": "What is the tenure of the Rajya Sabha members?",
+      "options": ["5 years", "6 years", "4 years", "Lifetime"],
+      "correctAnswer": "6 years",
+      "solution": "Members of the Rajya Sabha serve a tenure of 6 years."
+    },
+    {
+      "question": "Who can dissolve the Lok Sabha?",
+      "options": ["President", "Prime Minister", "Chief Justice", "Speaker"],
+      "correctAnswer": "Prime Minister",
+      "solution": "The Prime Minister can advise the President to dissolve the Lok Sabha."
+    },
+    {
+      "question": "Which state has the largest number of seats in the Lok Sabha?",
+      "options": ["Uttar Pradesh", "Maharashtra", "West Bengal", "Bihar"],
+      "correctAnswer": "Uttar Pradesh",
+      "solution": "Uttar Pradesh has the largest number of seats in the Lok Sabha."
+    },
+    {
+      "question": "Who is the head of the state government in India?",
+      "options": ["Governor", "Chief Minister", "President", "Prime Minister"],
+      "correctAnswer": "Chief Minister",
+      "solution": "The Chief Minister is the head of the state government."
+    },
+    {
+      "question": "Which article of the Indian Constitution provides for the abolition of untouchability?",
+      "options": ["Article 15", "Article 17", "Article 21", "Article 19"],
+      "correctAnswer": "Article 17",
+      "solution": "Article 17 of the Indian Constitution provides for the abolition of untouchability."
+    }
+  ]
+}
