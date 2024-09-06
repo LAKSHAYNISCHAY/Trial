@@ -1,0 +1,26 @@
+{
+  "quiz": [
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Sardar Patel",
+        "Subhash Chandra Bose"
+      ],
+      "correctAnswer": "Jawaharlal Nehru",
+      "solution": "Jawaharlal Nehru was the first Prime Minister of India."
+    },
+    {
+      "question": "In which year did India gain independence?",
+      "options": [
+        "1945",
+        "1946",
+        "1947",
+        "1948"
+      ],
+      "correctAnswer": "1947",
+      "solution": "India gained independence on August 15, 1947."
+    }
+  ]
+}
