@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Who were the flag-bearers at the closing ceremony of the \"Paris Paralympics-2024\" games?",
+      "options": ["Archer Harvinder Singh and sprinter Preeti Pal", "Only Archer Harvinder Singh", "Only sprinter Preeti Pal", "None of the above"],
+      "correctAnswer": "Archer Harvinder Singh and sprinter Preeti Pal",
+      "solution": "Both Archer Harvinder Singh and sprinter Preeti Pal were the flag-bearers."
+    },
+    {
+      "question": "When was the fifth \"Defense Cooperation Dialogue\" between India and Maldives held?",
+      "options": ["5 September 2024", "6 September 2024", "7 September 2024", "8 September 2024"],
+      "correctAnswer": "6 September 2024",
+      "solution": "The fifth \"Defense Cooperation Dialogue\" between India and Maldives was held on 6 September 2024."
+    },
+    {
+      "question": "Which ministry developed the first nationwide intellectual property, \"Dekho Apna Desh, People's Choice 2024\"?",
+      "options": ["Ministry of Tourism", "Ministry of Culture", "Ministry of Information and Broadcasting", "Ministry of Education"],
+      "correctAnswer": "Ministry of Tourism",
+      "solution": "The Ministry of Tourism developed the first nationwide intellectual property, \"Dekho Apna Desh, People's Choice 2024\"."
+    },
+    {
+      "question": "According to the international science journal \"Nature,\" how did the \"Swachh Bharat Mission\" help reduce infant mortality rates in India from 2011 to 2020?",
+      "options": ["By reducing infant mortality rates by 40,000 to 50,000 annually", "By reducing infant mortality rates by 50,000 to 60,000 annually", "By reducing infant mortality rates by 60,000 to 70,000 annually", "By reducing infant mortality rates by 70,000 to 80,000 annually"],
+      "correctAnswer": "By reducing infant mortality rates by 60,000 to 70,000 annually",
+      "solution": "According to the international science journal \"Nature,\" the \"Swachh Bharat Mission\" helped reduce infant mortality rates in India from 2011 to 2020 by 60,000 to 70,000 annually."
+    },
+    {
+      "question": "Who won the gold medal in the men's high jump T64 event at the \"Paris Paralympics-2024\"?",
+      "options": ["Indian star athlete Praveen Kumar", "Indian star athlete Sumit Antil", "Indian star athlete Devendra Jhajharia", "None of the above"],
+      "correctAnswer": "Indian star athlete Praveen Kumar",
+      "solution": "Indian star athlete Praveen Kumar won the gold medal in the men's high jump T64 event at the \"Paris Paralympics-2024\"."
+    },
+    {
+      "question": "Who won the gold medal in the women's 76 Kg freestyle category at the \"Under-20 World Championship\" in wrestling?",
+      "options": ["Jyoti Berawal", "Priyanka Malik", "Sonika Kaliraman", "None of the above"],
+      "correctAnswer": "Jyoti Berawal",
+      "solution": "Jyoti Berawal won the gold medal in the women's 76 Kg freestyle category at the \"Under-20 World Championship\" in wrestling."
+    },
+    {
+      "question": "By when will the \"technical textile exports\" exceed $10 billion?",
+      "options": ["By 2025", "By 2028", "By 2030", "By 2032"],
+      "correctAnswer": "By 2030",
+      "solution": "The \"technical textile exports\" are expected to exceed $10 billion by 2030."
+    },
+    {
+      "question": "Where and by whom was the \"Jal Sanchay Jan Bhagidari\" initiative launched?",
+      "options": ["In Surat by PM Modi", "In Ahmedabad by PM Modi", "In Jaipur by PM Modi", "In Bhopal by PM Modi"],
+      "correctAnswer": "In Surat by PM Modi",
+      "solution": "The \"Jal Sanchay Jan Bhagidari\" initiative was launched in Surat by PM Modi."
+    },
+    {
+      "question": "When is \"National Reading Day\" celebrated?",
+      "options": ["5 September", "6 September", "7 September", "8 September"],
+      "correctAnswer": "6 September",
+      "solution": "\"National Reading Day\" is celebrated on 6 September."
+    },
+    {
+      "question": "Which Indian Navy ships and aircraft participated in the 22nd edition of the India-France bilateral \"Exercise Varun\"?",
+      "options": ["INS Tabar and LRMR-P8-1 aircraft", "INS Vikramaditya and INS Vikrant", "INS Chennai and INS Kolkata", "INS Kochi and INS Ranvir"],
+      "correctAnswer": "INS Tabar and LRMR-P8-1 aircraft",
+      "solution": "INS Tabar and LRMR-P8-1 aircraft participated in the 22nd edition of the India-France bilateral \"Exercise Varun\"."
+    }
+  ]
+}
