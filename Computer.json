@@ -1,0 +1,788 @@
+{
+  "questions": [
+    {
+      "question": "If Bill Gates had his way, what would Windows OS have been released as?",
+      "options": {
+        "a": "Calculator",
+        "b": "Interface Manager",
+        "c": "Control Panel",
+        "d": "Clipboard Viewer"
+      },
+      "correctAnswer": "b",
+      "explanation": "Bill Gates initially envisioned Windows OS as a graphical interface manager."
+    },
+    {
+      "question": "Which of the following is a single-chip-based device that is a complete processor in itself and is capable of performing arithmetic and logical operations?",
+      "options": {
+        "a": "Microprocessor",
+        "b": "Multiprocessing",
+        "c": "Operating System",
+        "d": "Modem"
+      },
+      "correctAnswer": "a",
+      "explanation": "A microprocessor is a single-chip integrated circuit that contains the central processing unit (CPU) and other essential components of a computer."
+    },
+    {
+      "question": "In the context of computers, it is known as the time taken to retrieve data from a storage device or peripheral unit.",
+      "options": {
+        "a": "Time Sharing",
+        "b": "Downtime",
+        "c": "Time Slicing",
+        "d": "Access Time"
+      },
+      "correctAnswer": "d",
+      "explanation": "Access time refers to the time it takes for a computer to locate and retrieve data from a storage device."
+    },
+    {
+      "question": "Which of the following companies stopped manufacturing personal computers in 2005?",
+      "options": {
+        "a": "Dell",
+        "b": "Acer",
+        "c": "IBM",
+        "d": "Asus"
+      },
+      "correctAnswer": "c",
+      "explanation": "IBM discontinued its personal computer business in 2005."
+    },
+    {
+      "question": "Which of the following options defines an operating system?",
+      "options": {
+        "a": "It is a set of programs used to convert high-level language into low-level language.",
+        "b": "It is a set of programs that controls the way a computer works and runs other programs.",
+        "c": "It is a software used to convert source program instructions into set programs.",
+        "d": "It is the actual way of working on a computer."
+      },
+      "correctAnswer": "b",
+      "explanation": "An operating system manages the computer's resources, interacts with hardware, and provides a platform for running applications."
+    },
+    {
+      "question": "In Excel, which shortcut key is used to fill the selected cell to the right of the active cell?",
+      "options": {
+        "a": "Ctrl + S",
+        "b": "Ctrl + R",
+        "c": "Ctrl + D",
+        "d": "Ctrl + V"
+      },
+      "correctAnswer": "b",
+      "explanation": "Ctrl + R is the shortcut key to fill a cell to the right in Excel."
+    },
+    {
+      "question": "What does W3C stand for in the field of computers and the internet?",
+      "options": {
+        "a": "World Wide Web Content",
+        "b": "World Wide Web Center",
+        "c": "World Wide Web Consortium",
+        "d": "World Wide Web Commission"
+      },
+      "correctAnswer": "c",
+      "explanation": "W3C is an international standards organization for the World Wide Web."
+    },
+    {
+      "question": "Which of the following is not a voice assistant?",
+      "options": {
+        "a": "Alexa",
+        "b": "Siri",
+        "c": "Cortana",
+        "d": "Caravan"
+      },
+      "correctAnswer": "d",
+      "explanation": "Caravan is not a voice assistant. It's likely a different product or service."
+    },
+    {
+      "question": "Which of the following websites is not related to education?",
+      "options": {
+        "a": "www.ignou.ac.in",
+        "b": "www.onlinesbi.com",
+        "c": "www.ncert.nic.in",
+        "d": "www.education.nic.in"
+      },
+      "correctAnswer": "b",
+      "explanation": "This website is likely related to online banking, not education."
+    },
+    {
+      "question": "Quattro Pro is a type of computer application software.",
+      "options": {
+        "a": "Word Processing Software",
+        "b": "Spreadsheet Software",
+        "c": "Database Software",
+        "d": "Desktop Publishing Software"
+      },
+      "correctAnswer": "b",
+      "explanation": "Quattro Pro is a popular spreadsheet software."
+    },
+    {
+      "question": "Which of the following is a hardware input device in a computer?",
+      "options": {
+        "a": "Plotters",
+        "b": "VDU",
+        "c": "Speech Synthesizer",
+        "d": "Scanners"
+      },
+      "correctAnswer": "d",
+      "explanation": "Scanners are used to input images or documents into a computer."
+    },
+    {
+      "question": "Which of the following is not an example of an operating system?",
+      "options": {
+        "a": "UNIX",
+        "b": "LINUX",
+        "c": "MS Office",
+        "d": "WINDOWS"
+      },
+      "correctAnswer": "c",
+      "explanation": "MS Office is a suite of productivity applications, not an operating system."
+    },
+    {
+      "question": "The trial test of a computer or software before commercial launch is called:",
+      "options": {
+        "a": "Beta test",
+        "b": "e-test",
+        "c": "Delta test",
+        "d": "Alpha test"
+      },
+      "correctAnswer": "a",
+      "explanation": "A beta test is a trial run of a product or software before it is released to the public."
+    },
+    {
+      "question": "Which of the following is not an operating system?",
+      "options": {
+        "a": "MS Windows",
+        "b": "Linux",
+        "c": "macOS",
+        "d": "Microsoft Office"
+      },
+      "correctAnswer": "d",
+      "explanation": "Microsoft Office is a suite of productivity applications, not an operating system."
+    },
+    {
+      "question": "Which of these languages is used to process data in a computer?",
+      "options": {
+        "a": "COBOL",
+        "b": "Binary",
+        "c": "BASIC",
+        "d": "WINDOWS"
+      },
+      "correctAnswer": "a",
+      "explanation": "COBOL is a high-level programming language commonly used for business applications."
+    },
+    {
+      "question": "…… and …… are two types of sound effect files that can be added in Microsoft PowerPoint.",
+      "options": {
+        "a": ".wav files, .mid files",
+        "b": ".jpg files, .pdf files",
+        "c": ".wav files, .jpg files",
+        "d": ".doc files, .gif files"
+      },
+      "correctAnswer": "a",
+      "explanation": ".wav and .mid files are common audio file formats that can be used in presentations."
+    }
+  ]
+}
+{
+  "questions": [
+    {
+      "question": "The system that converts IP addresses into a format that is easy to remember is called:",
+      "options": {
+        "a": "Domain Name System",
+        "b": "Domain Numbering System",
+        "c": "Packet-Switching Domain System",
+        "d": "Domain"
+      },
+      "correctAnswer": "a",
+      "explanation": "The Domain Name System (DNS) translates human-readable domain names (like example.com) into machine-readable IP addresses."
+    },
+    {
+      "question": "Which of the following is not an operating system?",
+      "options": {
+        "a": "Android",
+        "b": "Ubuntu",
+        "c": "Mint",
+        "d": "Tally"
+      },
+      "correctAnswer": "d",
+      "explanation": "Tally is a business management software, not an operating system."
+    },
+    {
+      "question": "1 EB is equal to:",
+      "options": {
+        "a": "1024 TB",
+        "b": "1024 GB",
+        "c": "1024 MB",
+        "d": "1024 PB"
+      },
+      "correctAnswer": "a",
+      "explanation": "1 Exabyte (EB) is equal to 1024 Terabytes (TB)."
+    },
+    {
+      "question": "Which of the following computer viruses damages the formatting of documents and does not allow them to be edited?",
+      "options": {
+        "a": "Boot Sector Virus",
+        "b": "Macro Virus",
+        "c": "File Virus",
+        "d": "Worm"
+      },
+      "correctAnswer": "a",
+      "explanation": "Boot sector viruses infect the master boot record of a disk, making it difficult to edit files."
+    },
+    {
+      "question": "RAM (Random Access Memory) is a type of storage memory.",
+      "options": {
+        "a": "Offline",
+        "b": "Tertiary",
+        "c": "Secondary",
+        "d": "Primary"
+      },
+      "correctAnswer": "d",
+      "explanation": "RAM is a primary storage device used to store data temporarily while a computer is running."
+    },
+    {
+      "question": "How many bytes are equal to 1 kilobyte in the binary system?",
+      "options": {
+        "a": "1024 bytes",
+        "b": "1048 bytes",
+        "c": "1012 bytes",
+        "d": "1042 bytes"
+      },
+      "correctAnswer": "a",
+      "explanation": "1 kilobyte is equal to 1024 bytes."
+    },
+    {
+      "question": "What is the storage capacity of a 3.5-inch floppy disk?",
+      "options": {
+        "a": "1.40 MB",
+        "b": "1.44 MB",
+        "c": "2.44 MB",
+        "d": "1 GB"
+      },
+      "correctAnswer": "b",
+      "explanation": "A standard 3.5-inch floppy disk has a storage capacity of 1.44 megabytes."
+    },
+    {
+      "question": "Which of the following is not an output device of a computer?",
+      "options": {
+        "a": "Printer",
+        "b": "Projector",
+        "c": "Scanner",
+        "d": "Monitor"
+      },
+      "correctAnswer": "c",
+      "explanation": "Scanners are input devices used to convert physical documents into digital images."
+    },
+    {
+      "question": "Silk is obtained from:",
+      "options": {
+        "a": "Bombyx mori",
+        "b": "Musca domestica",
+        "c": "Culex",
+        "d": "Butterfly"
+      },
+      "correctAnswer": "a",
+      "explanation": "Silk is produced by the silkworm Bombyx mori."
+    },
+    {
+      "question": "Red Data Book provides data related to:",
+      "options": {
+        "a": "Red Birds",
+        "b": "Red Lions",
+        "c": "List of plants and animals",
+        "d": "Endangered plants and animals"
+      },
+      "correctAnswer": "d",
+      "explanation": "The Red Data Book is a document that lists endangered species of plants and animals."
+    },
+    {
+      "question": "What is Optical Distribution Network (ODN)?",
+      "options": {
+        "a": "Optical device through which signals cannot be distributed.",
+        "b": "Physical fiber and optical device through which signals are distributed to users in the telecommunication network.",
+        "c": "Physical fiber through which signals are distributed to users in electronic circuits.",
+        "d": "Physical fibers through which signals are distributed to users in the telecommunication network."
+      },
+      "correctAnswer": "b",
+      "explanation": "ODN is a fiber-optic network used to deliver broadband services to homes and businesses."
+    },
+    {
+      "question": "Which feature provides the facility of remote login on a computer?",
+      "options": {
+        "a": "RTP",
+        "b": "HTTP",
+        "c": "FTP",
+        "d": "Telnet"
+      },
+      "correctAnswer": "d",
+      "explanation": "Telnet is a network protocol that allows users to connect to remote computers."
+    },
+    {
+      "question": "Which of the following is not a component of a computer?",
+      "options": {
+        "a": "ALU",
+        "b": "CPU",
+        "c": "Memory",
+        "d": "Paper"
+      },
+      "correctAnswer": "d",
+      "explanation": "Paper is not a component of a computer. It is a physical material used for printing."
+    },
+    {
+      "question": "The port that is a protocol for data transfer between digital devices is known as:",
+      "options": {
+        "a": "VGA monitor port",
+        "b": "USB port",
+        "c": "Parallel port",
+        "d": "PS/2 port"
+      },
+      "correctAnswer": "b",
+      "explanation": "USB (Universal Serial Bus) is a standard protocol for connecting devices to a computer."
+    },
+    {
+      "question": "Who are the co-founders of Apple Computers?",
+      "options": {
+        "a": "Paul Allen",
+        "b": "Bill Gates",
+        "c": "Charles Flint",
+        "d": "Steve Jobs"
+      },
+      "correctAnswer": "d",
+      "explanation": "Steve Jobs and Steve Wozniak co-founded Apple Computers."
+    },
+    {
+      "question": "Which company stopped manufacturing Personal Computers (PCs) in 2005?",
+      "options": {
+        "a": "Acer",
+        "b": "IBM",
+        "c": "Asus",
+        "d": "Dell"
+      },
+      "correctAnswer": "b",
+      "explanation": "IBM discontinued its personal computer business in 2005."
+    },
+    {
+      "question": "ROM is made of:",
+      "options": {
+        "a": "Photoelectric cells",
+        "b": "Magnetic tape",
+        "c": "Semiconductors",
+        "d": "Integrated circuits"
+      },
+      "correctAnswer": "c",
+      "explanation": "ROM (Read-Only Memory) is typically made of semiconductor chips."
+    },
+    {
+      "question": "What is the full form of ENIAC, the first general-purpose electronic computer?",
+      "options": {
+        "a": "Electronic Numerical Integrator and Computer",
+        "b": "Electronic Numerical Integrated Automatic Computer",
+        "c": "Electronic Network Integrated Analytical Computer",
+        "d": "Electronic Network Interactive Analytical Computer"
+      },
+      "correctAnswer": "a",
+      "explanation": "ENIAC stands for Electronic Numerical Integrator and Computer."
+    },
+    {
+      "question": "Who is considered the father of the computer?",
+      "options": {
+        "a": "Charles Babbage",
+        "b": "John Atanasoff",
+        "c": "Charles Babbage",
+        "d": "Alan Turing"
+      },
+      "correctAnswer": "a",
+      "explanation": "Charles Babbage is often considered the father of computing for his design of the Analytical Engine."
+    },
+    {
+      "question": "Which function key helps you enter edit mode in Excel?",
+      "options": {
+        "a": "F3",
+        "b": "F2",
+        "c": "F7",
+        "d": "F5"
+      },
+      "correctAnswer": "b",
+      "explanation": "Pressing the F2 key in Excel puts you into edit mode for the active cell."
+    },
+{
+  "questions": [
+    {
+      "question": "The system that converts IP addresses into a format that is easy to remember is called:",
+      "options": {
+        "a": "Domain Name System",
+        "b": "Domain Numbering System",
+        "c": "Packet-Switching Domain System",
+        "d": "Domain"
+      },
+      "correctAnswer": "a",
+      "explanation": "The Domain Name System (DNS) translates human-readable domain names (like example.com) into machine-readable IP addresses."
+    },
+    {
+      "question": "Which of the following is not an operating system?",
+      "options": {
+        "a": "Android",
+        "b": "Ubuntu",
+        "c": "Mint",
+        "d": "Tally"
+      },
+      "correctAnswer": "d",
+      "explanation": "Tally is a business management software, not an operating system."
+    },
+    {
+      "question": "1 EB is equal to:",
+      "options": {
+        "a": "1024 TB",
+        "b": "1024 GB",
+        "c": "1024 MB",
+        "d": "1024 PB"
+      },
+      "correctAnswer": "a",
+      "explanation": "1 Exabyte (EB) is equal to 1024 Terabytes (TB)."
+    },
+    {
+      "question": "Which of the following computer viruses damages the formatting of documents and does not allow them to be edited?",
+      "options": {
+        "a": "Boot Sector Virus",
+        "b": "Macro Virus",
+        "c": "File Virus",
+        "d": "Worm"
+      },
+      "correctAnswer": "a",
+      "explanation": "Boot sector viruses infect the master boot record of a disk, making it difficult to edit files."
+    },
+    {
+      "question": "RAM (Random Access Memory) is a type of storage memory.",
+      "options": {
+        "a": "Offline",
+        "b": "Tertiary",
+        "c": "Secondary",
+        "d": "Primary"
+      },
+      "correctAnswer": "d",
+      "explanation": "RAM is a primary storage device used to store data temporarily while a computer is running."
+    },
+    {
+      "question": "How many bytes are equal to 1 kilobyte in the binary system?",
+      "options": {
+        "a": "1024 bytes",
+        "b": "1048 bytes",
+        "c": "1012 bytes",
+        "d": "1042 bytes"
+      },
+      "correctAnswer": "a",
+      "explanation": "1 kilobyte is equal to 1024 bytes."
+    },
+    {
+      "question": "What is the storage capacity of a 3.5-inch floppy disk?",
+      "options": {
+        "a": "1.40 MB",
+        "b": "1.44 MB",
+        "c": "2.44 MB",
+        "d": "1 GB"
+      },
+      "correctAnswer": "b",
+      "explanation": "A standard 3.5-inch floppy disk has a storage capacity of 1.44 megabytes."
+    },
+    {
+      "question": "Which of the following is not an output device of a computer?",
+      "options": {
+        "a": "Printer",
+        "b": "Projector",
+        "c": "Scanner",
+        "d": "Monitor"
+      },
+      "correctAnswer": "c",
+      "explanation": "Scanners are input devices used to convert physical documents into digital images."
+    },
+    {
+      "question": "Silk is obtained from:",
+      "options": {
+        "a": "Bombyx mori",
+        "b": "Musca domestica",
+        "c": "Culex",
+        "d": "Butterfly"
+      },
+      "correctAnswer": "a",
+      "explanation": "Silk is produced by the silkworm Bombyx mori."
+    },
+    {
+      "question": "Red Data Book provides data related to:",
+      "options": {
+        "a": "Red Birds",
+        "b": "Red Lions",
+        "c": "List of plants and animals",
+        "d": "Endangered plants and animals"
+      },
+      "correctAnswer": "d",
+      "explanation": "The Red Data Book is a document that lists endangered species of plants and animals."
+    },
+    {
+      "question": "What is Optical Distribution Network (ODN)?",
+      "options": {
+        "a": "Optical device through which signals cannot be distributed.",
+        "b": "Physical fiber and optical device through which signals are distributed to users in the telecommunication network.",
+        "c": "Physical fiber through which signals are distributed to users in electronic circuits.",
+        "d": "Physical fibers through which signals are distributed to users in the telecommunication network."
+      },
+      "correctAnswer": "b",
+      "explanation": "ODN is a fiber-optic network used to deliver broadband services to homes and businesses."
+    },
+    {
+      "question": "Which feature provides the facility of remote login on a computer?",
+      "options": {
+        "a": "RTP",
+        "b": "HTTP",
+        "c": "FTP",
+        "d": "Telnet"
+      },
+      "correctAnswer": "d",
+      "explanation": "Telnet is a network protocol that allows users to connect to remote computers."
+    },
+    {
+      "question": "Which of the following is not a component of a computer?",
+      "options": {
+        "a": "ALU",
+        "b": "CPU",
+        "c": "Memory",
+        "d": "Paper"
+      },
+      "correctAnswer": "d",
+      "explanation": "Paper is not a component of a computer. It is a physical material used for printing."
+    },
+    {
+      "question": "The port that is a protocol for data transfer between digital devices is known as:",
+      "options": {
+        "a": "VGA monitor port",
+        "b": "USB port",
+        "c": "Parallel port",
+        "d": "PS/2 port"
+      },
+      "correctAnswer": "b",
+      "explanation": "USB (Universal Serial Bus) is a standard protocol for connecting devices to a computer."
+    },
+    {
+      "question": "Who are the co-founders of Apple Computers?",
+      "options": {
+        "a": "Paul Allen",
+        "b": "Bill Gates",
+        "c": "Charles Flint",
+        "d": "Steve Jobs"
+      },
+      "correctAnswer": "d",
+      "explanation": "Steve Jobs and Steve Wozniak co-founded Apple Computers."
+    },
+    {
+      "question": "Which company stopped manufacturing Personal Computers (PCs) in 2005?",
+      "options": {
+        "a": "Acer",
+        "b": "IBM",
+        "c": "Asus",
+        "d": "Dell"
+      },
+      "correctAnswer": "b",
+      "explanation": "IBM discontinued its personal computer business in 2005."
+    },
+    {
+      "question": "ROM is made of:",
+      "options": {
+        "a": "Photoelectric cells",
+        "b": "Magnetic tape",
+        "c": "Semiconductors",
+        "d": "Integrated circuits"
+      },
+      "correctAnswer": "c",
+      "explanation": "ROM (Read-Only Memory) is typically made of semiconductor chips."
+    },
+    {
+      "question": "What is the full form of ENIAC, the first general-purpose electronic computer?",
+      "options": {
+        "a": "Electronic Numerical Integrator and Computer",
+        "b": "Electronic Numerical Integrated Automatic Computer",
+        "c": "Electronic Network Integrated Analytical Computer",
+        "d": "Electronic Network Interactive Analytical Computer"
+      },
+      "correctAnswer": "a",
+      "explanation": "ENIAC stands for Electronic Numerical Integrator and Computer."
+    },
+    {
+      "question": "Who is considered the father of the computer?",
+      "options": {
+        "a": "Charles Babbage",
+        "b": "John Atanasoff",
+        "c": "Charles Babbage",
+        "d": "Alan Turing"
+      },
+      "correctAnswer": "a",
+      "explanation": "Charles Babbage is often considered the father of computing for his design of the Analytical Engine."
+    },
+    {
+      "question": "Which function key helps you enter edit mode in Excel?",
+      "options": {
+        "a": "F3",
+        "b": "F2",
+        "c": "F7",
+        "d": "F5"
+      },
+      "correctAnswer": "b",
+      "explanation": "Pressing the F2 key in Excel puts you into edit mode for the active cell."
+    },
+{
+  "questions": [
+    {
+      "question": "The programming language 'C++' was developed by Bjarne Stroustrup at AT&T Bell Laboratories in the early _____ decade.",
+      "options": {
+        "a": "1980",
+        "b": "1990",
+        "c": "1960",
+        "d": "1970"
+      },
+      "correctAnswer": "a",
+      "explanation": "C++ was developed in the early 1980s."
+    },
+    {
+      "question": "A collection of interrelated files and a set of programs that allow users to access and modify these files is called:",
+      "options": {
+        "a": "Data Analytical System",
+        "b": "Database Management System",
+        "c": "Data Files",
+        "d": "System Management"
+      },
+      "correctAnswer": "b",
+      "explanation": "A database management system (DBMS) is software used to manage databases."
+    },
+    {
+      "question": "Which of the following is a computer programming language?",
+      "options": {
+        "a": "UNIX",
+        "b": "Scratch",
+        "c": "Norton",
+        "d": "BOSS"
+      },
+      "correctAnswer": "b",
+      "explanation": "Scratch is a visual programming language designed for beginners."
+    },
+    {
+      "question": "Which of the following is a computer utility program?",
+      "options": {
+        "a": "Inventory Control System",
+        "b": "Shareware",
+        "c": "Package Software",
+        "d": "Disk Defragmenter"
+      },
+      "correctAnswer": "d",
+      "explanation": "A disk defragmenter reorganizes fragmented files on a hard drive to improve performance."
+    },
+    {
+      "question": "Which generation of computers were heavy, vacuum tube-based, and expensive?",
+      "options": {
+        "a": "Fourth Generation",
+        "b": "Fifth Generation",
+        "c": "First Generation",
+        "d": "Third Generation"
+      },
+      "correctAnswer": "c",
+      "explanation": "First-generation computers were characterized by their use of vacuum tubes."
+    },
+    {
+      "question": "Which protocol is used for WWW?",
+      "options": {
+        "a": "FTP",
+        "b": "SMTP",
+        "c": "TCP/IP",
+        "d": "HTTP"
+      },
+      "correctAnswer": "d",
+      "explanation": "HTTP (Hypertext Transfer Protocol) is the protocol used for communication on the World Wide Web."
+    },
+    {
+      "question": "In a web address, what does the domain indicator (suffix) 'com' mean?",
+      "options": {
+        "a": "Computer",
+        "b": "Communication",
+        "c": "Common",
+        "d": "Commercial"
+      },
+      "correctAnswer": "d",
+      "explanation": "The '.com' domain suffix is typically used for commercial websites."
+    },
+    {
+      "question": "Which of the following is not an operating system?",
+      "options": {
+        "a": "Linux",
+        "b": "Intel",
+        "c": "Windows",
+        "d": "Mac"
+      },
+      "correctAnswer": "b",
+      "explanation": "Intel is a semiconductor chip manufacturer, not an operating system."
+    },
+    {
+      "question": "Which group includes only output devices?",
+      "options": {
+        "a": "Mouse, Printer, and Monitor",
+        "b": "Scanner, Printer, and Monitor",
+        "c": "Plotter, Printer, and Monitor",
+        "d": "Keyboard, Printer, and Monitor"
+      },
+      "correctAnswer": "c",
+      "explanation": "Plotter, printer, and monitor are output devices used to display or present information."
+    },
+    {
+      "question": "In the context of computing, which of the following sequences is correct?",
+      "options": {
+        "a": "TB > KB > MB > GB",
+        "b": "GB > TB > MB > KB",
+        "c": "TB > GB > MB > KB",
+        "d": "MB > GB > TB > KB"
+      },
+      "correctAnswer": "c",
+      "explanation": "The correct order of storage units from largest to smallest is Terabyte (TB), Gigabyte (GB), Megabyte (MB), and Kilobyte (KB)."
+    },
+    {
+      "question": "Which university designed and built the first electronic computer (ENIAC)?",
+      "options": {
+        "a": "Harvard University",
+        "b": "Pennsylvania University",
+        "c": "Stanford University",
+        "d": "Oxford University"
+      },
+      "correctAnswer": "b",
+      "explanation": "ENIAC was developed at the University of Pennsylvania."
+    },
+    {
+      "question": "Researchers from which institution designed and booted up India's first fully indigenously developed microprocessor, which can be used in mobile computing devices?",
+      "options": {
+        "a": "IIT Roorkee",
+        "b": "IIT Kanpur",
+        "c": "IIT Madras",
+        "d": "IIT Delhi"
+      },
+      "correctAnswer": "a",
+      "explanation": "IIT Roorkee researchers developed the SHAKTI processor."
+    },
+    {
+      "question": "FORTRAN is a high-level programming language used for scientific and mathematical applications.",
+      "options": {
+        "a": "EDP",
+        "b": "COBOL",
+        "c": "RFID",
+        "d": "FORTRAN"
+      },
+      "correctAnswer": "d",
+      "explanation": "FORTRAN is a high-level programming language specifically designed for scientific and engineering computations."
+    },
+    {
+      "question": "In the context of computers, the time taken to retrieve data from a storage device or peripheral unit is known as:",
+      "options": {
+        "a": "Time Slicing",
+        "b": "Access Time",
+        "c": "Downtime",
+        "d": "Time Sharing"
+      },
+      "correctAnswer": "b",
+      "explanation": "Access time refers to the time it takes for a computer to locate and retrieve data from a storage device."
+    }
+  ]
+}
+
+  
+
+
+  
+
